@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanbanRestAPI", "KanbanRestAPI\KanbanRestAPI.csproj", "{021E6946-45BE-474E-BA95-64B9C0FCFECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanbanRestAPI.Tests", "KanbanRestAPI.Tests\KanbanRestAPI.Tests.csproj", "{CE29E805-2844-4B7E-88C3-E1E8C783026A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021E6946-45BE-474E-BA95-64B9C0FCFECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021E6946-45BE-474E-BA95-64B9C0FCFECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021E6946-45BE-474E-BA95-64B9C0FCFECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021E6946-45BE-474E-BA95-64B9C0FCFECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE29E805-2844-4B7E-88C3-E1E8C783026A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE29E805-2844-4B7E-88C3-E1E8C783026A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE29E805-2844-4B7E-88C3-E1E8C783026A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE29E805-2844-4B7E-88C3-E1E8C783026A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
