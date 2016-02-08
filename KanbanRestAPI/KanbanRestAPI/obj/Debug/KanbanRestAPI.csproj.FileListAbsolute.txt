@@ -47,3 +47,6 @@ C:\Dev\Origin\15-Kanban - REST API\KanbanRestAPI\KanbanRestAPI\obj\Debug\KanbanR
 C:\Dev\Origin\15-Kanban - REST API\KanbanRestAPI\KanbanRestAPI\obj\Debug\KanbanRestAPI.pdb
 C:\Dev\Origin\15-Kanban - REST API\KanbanRestAPI\KanbanRestAPI\bin\AutoMapper.dll
 C:\Dev\Origin\15-Kanban - REST API\KanbanRestAPI\KanbanRestAPI\bin\AutoMapper.xml
+C:\Dev\Origin\15-Kanban - REST API\KanbanRestAPI\KanbanRestAPI\bin\System.Web.Cors.dll
+C:\Dev\Origin\15-Kanban - REST API\KanbanRestAPI\KanbanRestAPI\bin\System.Web.Http.Cors.dll
+C:\Dev\Origin\15-Kanban - REST API\KanbanRestAPI\KanbanRestAPI\bin\System.Web.Http.Cors.xml

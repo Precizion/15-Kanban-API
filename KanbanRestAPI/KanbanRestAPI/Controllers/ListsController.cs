@@ -43,7 +43,7 @@ namespace KanbanRestAPI.Controllers
                 return NotFound();
             }
 
-            return Ok(list);
+            return Ok(Mapper.Map<ListsModel>(list));
         }
 
         // PUT: api/Lists/5
@@ -59,16 +59,11 @@ namespace KanbanRestAPI.Controllers
             {
                 return BadRequest();
             }
-
-
-            #region Thing to change
-
+            
             var dbList = db.Lists.Find(id);
 
             dbList.Update(list);
-
             db.Entry(dbList).State = EntityState.Modified;
-            #endregion
 
             try
             {
